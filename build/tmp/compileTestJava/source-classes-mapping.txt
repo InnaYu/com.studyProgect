@@ -1,0 +1,2 @@
+com/study/selenideintro/GoogleTest.java
+ com.study.selenideintro.GoogleTest

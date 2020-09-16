@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.study.selenideintro.TodoMvcTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-15T13:49:29" hostname="EPUAKYIW06F6" time="9.207">
+  <properties/>
+  <testcase name="completeTask()" classname="com.study.selenideintro.TodoMvcTest" time="9.207"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Sep 15, 2020 4:49:29 PM com.codeborne.selenide.drivercommands.LazyDriver getAndCheckWebDriver
+INFO: No webdriver is bound to current thread: 12 - let's create a new webdriver
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Sep 15, 2020 4:49:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Sep 15, 2020 4:49:35 PM com.codeborne.selenide.webdriver.BrowserResizer adjustBrowserSize
+INFO: Set browser size to 1366x768
+Sep 15, 2020 4:49:35 PM com.codeborne.selenide.webdriver.WebDriverFactory logBrowserVersion
+INFO: BrowserName=firefox Version=80.0 Platform=WINDOWS
+Sep 15, 2020 4:49:35 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 5.2.4
+Sep 15, 2020 4:49:35 PM com.codeborne.selenide.webdriver.WebDriverFactory logSeleniumInfo
+INFO: Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+Sep 15, 2020 4:49:35 PM com.codeborne.selenide.drivercommands.CreateDriverCommand createDriver
+INFO: Create webdriver in current thread 12: FirefoxDriver -> FirefoxDriver: firefox on WINDOWS (c11857ed-8ee0-4215-908a-824bfab24352)
+]]></system-err>
+</testsuite>
