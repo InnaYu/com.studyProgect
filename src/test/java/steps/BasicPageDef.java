@@ -11,4 +11,9 @@ public class BasicPageDef {
     public void clickButton(String arg0) {
         basicPage.clickButton(arg0);
     }
+
+    @Then("Click {string} button span")
+    public void clickButtonSpan(String arg0) {
+        basicPage.clickButtonSpan(arg0);
+    }
 }
